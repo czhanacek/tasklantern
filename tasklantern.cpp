@@ -1,5 +1,5 @@
 #include <CapacitiveSensor.h>
-
+// Task latern code for 2017 Hardware Hackathon
 
 
 CapacitiveSensor   cs_4_2 = CapacitiveSensor(2,22);  
